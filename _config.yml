@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Anmol Rathi
-#title: 
+title: Co-Founder Cancer-EX 
 email: anmolrathi0404@gmail.com
 #phone: 
 website: http://anmolrathi.me
@@ -13,9 +13,9 @@ website: http://anmolrathi.me
 #twitter_username: jekyllrb
 #github_username:  jekyllrb
 #dribbble_username: jekyll
-#facebook_username: 
+facebook_username: https://www.facebook.com/anmol.rathi.1485
 #flickr_username: jekyll
-instagram_username: anmol_4080
+instagram_username: https://www.instagram.com/anmol__rathi/?hl=en
 linkedin_username: https://www.linkedin.com/in/anmol-rathi-27602317b/
 #xing_username: jekyll
 #pinterest_username: jekyll
@@ -34,7 +34,7 @@ about_content: | # this will include new lines to allow paragraphs
  # You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
   #  - Lists
   #  - Tables
- #   - Links
+   - https://finalistquestionnaire.societyforscience.org/
  #   - Images
 
 # Projects Section
@@ -49,9 +49,9 @@ education_title: Details of award(s) at State / District level  #(Use this to ov
 # More Section
 more_title: Hobbies #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - Adobe after effects & Premere pro
-  - Global affair analyst
-  - Badminton
+  - Decoding Research Papers
+  - Watching Web-Series! (Friends, Suits, Sherlock, Flash, GOT! etc.)
+  - Playing Badminton
   - Singing and playing guitar
 
 # Footer
